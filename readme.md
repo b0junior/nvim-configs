@@ -1,6 +1,3 @@
-
-# Table of Contents
-
 1.  [Projetos:](#orgf756071)
     1.  [Poisonline:](#org27035e4)
 
@@ -16,9 +13,8 @@
 
 -   Work in progress
 -   Requisitos :
-    `nvim 0.5+`
-    `lua`
-    `luaJIT`
+    `nvim 0.5+`, 
+    `lua`,
 
 O arquivo `poisonline.lua` deve ser movido para `~/.config/nvim/lua` e
 carregado no arquivo `init.vim`.
